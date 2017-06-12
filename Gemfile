@@ -33,7 +33,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'capistrano-rails', group: :development
 
 gem 'bootstrap', git: 'https://github.com/twbs/bootstrap-rubygem'
-
+gem 'rails_12factor'
 
 
 group :development, :test do
